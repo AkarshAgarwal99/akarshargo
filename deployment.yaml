@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: sample-app-container
-        image: akarshagarwal999/argocd:v2
+        image: akarshagarwal999/argocd:v3
         ports:
         - containerPort: 80
